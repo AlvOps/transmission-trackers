@@ -26,7 +26,7 @@ It validates credentials, checks if the torrent ID exists, fetches an updated tr
 2. **Run the script:**
 ./add-trackers.sh  
  ```bash
-   ./addtrackers.sh 
+./addtrackers.sh 
    ```
 3. **Enter your Transmission username and password when prompted**
 4. **Pick the torrent ID from the displayed list.**
