@@ -33,3 +33,6 @@ It validates credentials, checks if the torrent ID exists, fetches an updated tr
 4. **Pick the torrent ID from the displayed list.**
 5. **The script adds trackers and shows a summary**
 
+## License
+
+This project is open-source and available under the [MIT License](LICENSE).
