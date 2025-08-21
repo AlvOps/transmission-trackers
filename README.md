@@ -33,14 +33,3 @@ It validates credentials, checks if the torrent ID exists, fetches an updated tr
 4. **Pick the torrent ID from the displayed list.**
 5. **The script adds trackers and shows a summary**
 
-📊 **Example Output:**
-Fetching list of torrents...
-==========================================================
-ID   Done       Have  ETA           Up    Down  Ratio  Status       Name
-1     100%      2.0 GB   Done       0.0   0.0   0.00   Idle         Example.torrent
-==========================================================
-Adding trackers to torrent ID: 1 ...
-✅ Trackers added successfully!
-   Successful: 20
-   Failed: 2
-   Total processed: 22
