@@ -15,6 +15,7 @@ It validates credentials, checks if the torrent ID exists, fetches an updated tr
 ⚙️ Requirements  
 - **Transmission** with `transmission-remote` available.  
 - **curl** installed.  
+- Core utilities **(awk, sed, grep)** typically pre-installed on most systems
 - Internet connection to fetch the tracker list.
 
 🚀 Usage  
